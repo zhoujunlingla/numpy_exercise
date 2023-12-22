@@ -1,4 +1,4 @@
-#numpy_exercise  
+# numpy_exercise  
 
 1.[100 numpy exercises](https://github.com/rougier/numpy-100?tab=readme-ov-file)
 
